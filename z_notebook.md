@@ -1,4 +1,8 @@
-# About cattle
+# General Info & Pipeline
+1. https://www.metagenomics.wiki/<br/>
+2. Microbiota Analysis in R (pipiline)\
+https://rpubs.com/dillmcfarlan/R_microbiotaSOP
+# About Cattle
 https://www.clovermeadowsbeef.com/cow-heifer-steer-bull/<br/>
 
 # OTU vs. ASV
