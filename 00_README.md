@@ -3,7 +3,7 @@
 This is the R code repository for the paper "Dynamic Changes in Fecal Bacterial Microbiota of Dairy Cattle across the Production Line".\
 The paper has been accepted by BMC Microbiology but not yet published. Link to the paper will be added later.
 
-All the sequences used in this project have been deposited in NCBI's Sequence Read Archive (SRA) with the accession number PRJNA607283.\ 
+All the sequences used in this project have been deposited in NCBI's Sequence Read Archive (SRA) with the accession number PRJNA607283.\
 Direct link: https://www.ncbi.nlm.nih.gov/sra/?term=PRJNA607283
 
 Background:\
