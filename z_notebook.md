@@ -2,6 +2,9 @@
 1. https://www.metagenomics.wiki/<br/>
 2. Microbiota Analysis in R (pipiline)\
 https://rpubs.com/dillmcfarlan/R_microbiotaSOP
+3. QIIME\
+http://www.wernerlab.org/teaching/qiime/overview<br/>
+
 # About Cattle
 https://www.clovermeadowsbeef.com/cow-heifer-steer-bull/<br/>
 
@@ -13,7 +16,7 @@ https://fromthebottomoftheheap.net/2015/04/16/drawing-rarefaction-curves-with-cu
 https://github.com/MadsAlbertsen/ampvis2/blob/main/R/amp_rarecurve.R<br/>
 
 # Diversity
-1.Measures of biodiversity\
+1. Measures of biodiversity\
 https://www.biosym.uzh.ch/modules/models/Biodiversity/MeasuresOfBioDiversity.html<br/>
 2. Diversity PPT
 https://www.evolution.unibas.ch/walser/bacteria_community_analysis/2015-02-10_MBM_tutorial_combined.pdf<br/>
