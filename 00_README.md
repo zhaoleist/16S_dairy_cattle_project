@@ -12,3 +12,4 @@ Microbiota play important roles in the gastrointestinal tract (GIT) of dairy cat
 Interchangeble variables in the scripts:
 1) OTU == ASV (though they came from different methods, consider them the same thing in the scripts)
 2) stage == management unit (refer to the 12 units where the cattle live)
+3) g == p (when referring to ggplot object)
