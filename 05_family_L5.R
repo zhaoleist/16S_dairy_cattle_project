@@ -51,7 +51,7 @@ g_fig_temp <- ggplot() +
     plot.margin = unit(c(1,1,1,1), "cm")) +
   xlab("Families (patial)") + 
   ylab("No. of samples containing the family") +
-  annotate("text", x= 1:nrow(g_fig_temp), 
+  annotate("text", x= 1:nrow(df_fig_temp), 
            y=max(df_fig_temp$value) * 0.445, 
            label=levels(df_fig_temp$family)[1:20], angle=90, size=10, fontface="bold") +
   scale_y_continuous(limits=c(0, max(df_fig_temp$value) + 5), breaks=seq(0,max(df_fig_temp$value), 10))
